@@ -2,7 +2,7 @@
 # Copyright (C) 2018 Jean Bizot <jean@styckr.io>
 """ Main lib for third_project Project
 """
-
+"""
 from os.path import split
 import pandas as pd
 import datetime
@@ -56,3 +56,4 @@ if __name__ == '__main__':
     clean_data = clean_data(df)
     print(' dataframe cleaned')
 
+"""
